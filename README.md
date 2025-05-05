@@ -1,4 +1,4 @@
-# SQL Project - Sales Analysis
+# SQL Project - Movie analysis
 
 ## Overview
 This project includes various SQL queries used to analyze a retail sales database. It covers concepts like joins, group by, filtering, and aggregation.
